@@ -1,0 +1,12 @@
+[
+ {"slug":"top10-everywhere","title":"Top 10","sub":"Everywhere","kicker":"All services · today","c1":"#ff3d3d","c2":"#4a0410","motif":"rank"},
+ {"slug":"new-on-streaming","title":"Just","sub":"Landed","kicker":"New on every service","c1":"#3de0ff","c2":"#041f3a","motif":"rings"},
+ {"slug":"tonight","title":"Tonight","sub":"","kicker":"Curated for you","c1":"#f5c26b","c2":"#1a0f05","motif":"spot"},
+ {"slug":"mind-benders","title":"Mind","sub":"Benders","kicker":"Twists · loops · paradoxes","c1":"#b06bff","c2":"#120428","motif":"spiral"},
+ {"slug":"arthouse-nights","title":"Arthouse","sub":"Nights","kicker":"A24 · MUBI · Criterion","c1":"#e8e0d0","c2":"#2b2622","motif":"frame"},
+ {"slug":"under-90","title":"Under","sub":"90 Minutes","kicker":"Short & sharp","c1":"#7dffb2","c2":"#03241a","motif":"clock"},
+ {"slug":"the-canon","title":"The","sub":"Canon","kicker":"The films everyone should see","c1":"#ffd36b","c2":"#2a1c02","motif":"laurel"},
+ {"slug":"edge-of-your-seat","title":"Edge of","sub":"Your Seat","kicker":"Heists · whodunnits · thrillers","c1":"#ff8a3d","c2":"#2a0d02","motif":"slash"},
+ {"slug":"after-midnight","title":"After","sub":"Midnight","kicker":"Horror, old and new","c1":"#ff2e5f","c2":"#0a0006","motif":"moon"},
+ {"slug":"epic-night-in","title":"Epic","sub":"Night In","kicker":"Two and a half hours +","c1":"#6b9bff","c2":"#050c24","motif":"horizon"}
+]
