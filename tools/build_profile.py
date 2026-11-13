@@ -33,7 +33,7 @@ def nid(name):  # stable ids so re-running doesn't create duplicates
 
 def folder(slug, title, ids):
     return {'id': nid(slug), 'title': title, 'hideTitle': True,
-            'coverImageUrl': None, 'customCoverImageUrl': f'{base}/{slug}.cover.jpg',
+            'coverImageUrl': f'{base}/{slug}.cover.jpg', 'customCoverImageUrl': f'{base}/{slug}.cover.jpg',
             'coverEmoji': None, 'focusGifUrl': None, 'focusGifEnabled': False,
             'defaultCoverSlug': None, 'heroBackdropUrl': f'{base}/{slug}.backdrop.jpg',
             'heroVideoUrl': None, 'titleLogoUrl': None, 'coverSetId': None,
