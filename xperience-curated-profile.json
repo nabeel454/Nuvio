@@ -122,12 +122,6 @@
    "kids_top_movies": {
     "shuffle": "daily"
    },
-   "trending_movies": {
-    "shuffle": "daily"
-   },
-   "trending_series": {
-    "shuffle": "daily"
-   },
    "genre_war_series": {
     "shuffle": "daily"
    },
@@ -150,9 +144,6 @@
     "shuffle": "daily"
    },
    "anime_best_series": {
-    "shuffle": "daily"
-   },
-   "awards_afi_top100": {
     "shuffle": "daily"
    },
    "network_cw_series": {
@@ -287,22 +278,10 @@
    "runtime_long_movies": {
     "shuffle": "daily"
    },
-   "snoak_top100_movies": {
-    "shuffle": "daily"
-   },
-   "snoak_top100_series": {
-    "shuffle": "daily"
-   },
    "studio_pixar_series": {
     "shuffle": "daily"
    },
    "themed_heist_series": {
-    "shuffle": "daily"
-   },
-   "tmdb_popular_movies": {
-    "shuffle": "daily"
-   },
-   "tmdb_popular_series": {
     "shuffle": "daily"
    },
    "genre_fantasy_movies": {
@@ -327,12 +306,6 @@
     "shuffle": "daily"
    },
    "kids_animated_series": {
-    "shuffle": "daily"
-   },
-   "kids_trending_movies": {
-    "shuffle": "daily"
-   },
-   "kids_trending_series": {
     "shuffle": "daily"
    },
    "runtime_short_movies": {
@@ -362,22 +335,10 @@
    "themed_serial_killer": {
     "shuffle": "daily"
    },
-   "trakt_popular_movies": {
-    "shuffle": "daily"
-   },
-   "trakt_popular_series": {
-    "shuffle": "daily"
-   },
    "anime_toprated_movies": {
     "shuffle": "daily"
    },
    "anime_toprated_series": {
-    "shuffle": "daily"
-   },
-   "anime_trending_movies": {
-    "shuffle": "daily"
-   },
-   "anime_trending_series": {
     "shuffle": "daily"
    },
    "genre_musicals_movies": {
@@ -405,12 +366,6 @@
     "shuffle": "daily"
    },
    "themed_zombies_series": {
-    "shuffle": "daily"
-   },
-   "trakt_trending_movies": {
-    "shuffle": "daily"
-   },
-   "trakt_trending_series": {
     "shuffle": "daily"
    },
    "genre_adventure_movies": {
@@ -489,69 +444,6 @@
     "shuffle": "daily"
    },
    "themed_superhero_series": {
-    "shuffle": "daily"
-   },
-   "world_de_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_de_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_es_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_es_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_fr_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_fr_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_it_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_it_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_ja_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_ja_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_ko_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_ko_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_pt_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_pt_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_ru_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_ru_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_tr_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_tr_popular_series": {
-    "shuffle": "daily"
-   },
-   "world_zh_popular_movies": {
-    "shuffle": "daily"
-   },
-   "world_zh_popular_series": {
-    "shuffle": "daily"
-   },
-   "awards_letterboxd_top250": {
     "shuffle": "daily"
    },
    "genre_documentary_movies": {
@@ -644,12 +536,6 @@
    "world_zh_toprated_series": {
     "shuffle": "daily"
    },
-   "awards_imdb_top250_movies": {
-    "shuffle": "daily"
-   },
-   "awards_imdb_top250_series": {
-    "shuffle": "daily"
-   },
    "streaming_channel4_movies": {
     "shuffle": "daily"
    },
@@ -720,12 +606,6 @@
     "shuffle": "daily"
    },
    "themed_serial_killer_series": {
-    "shuffle": "daily"
-   },
-   "trending_imdb_top100_movies": {
-    "shuffle": "daily"
-   },
-   "trending_imdb_top100_series": {
     "shuffle": "daily"
    },
    "decade_1960s_toprated_movies": {
@@ -974,9 +854,6 @@
    "streaming_peacock_originals_series": {
     "shuffle": "daily"
    },
-   "trending_most_popular_top20_movies": {
-    "shuffle": "daily"
-   },
    "streaming_channel5_originals_series": {
     "shuffle": "daily"
    },
@@ -1023,7 +900,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/top10-everywhere.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/top10-everywhere.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -1168,7 +1045,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/new-on-streaming.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/new-on-streaming.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -2404,7 +2281,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/mind-benders.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/mind-benders.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -2453,7 +2330,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/arthouse-nights.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/arthouse-nights.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -2502,7 +2379,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/edge-of-your-seat.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/edge-of-your-seat.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -2551,7 +2428,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/after-midnight.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/after-midnight.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -2594,7 +2471,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/under-90.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/under-90.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -2619,7 +2496,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/epic-night-in.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/epic-night-in.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -2650,7 +2527,7 @@
       "focusGifEnabled": false,
       "defaultCoverSlug": null,
       "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/the-canon.backdrop.jpg",
-      "heroVideoUrl": null,
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/the-canon.mp4",
       "titleLogoUrl": null,
       "coverSetId": null,
       "backdropSetId": null,
@@ -2684,6 +2561,183 @@
         "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
         "type": "series",
         "catalogId": "awards_imdb_top250_series",
+        "genre": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "1979932b-74b1-5db7-a672-2e5b88de36df",
+    "title": "Seasons",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "backdropImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/seasons.backdrop.jpg",
+    "folders": [
+     {
+      "id": "8a83d425-0a46-518d-b462-340fa445e1ef",
+      "title": "Winter Comfort",
+      "hideTitle": true,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-winter.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-winter.cover.jpg",
+      "coverEmoji": null,
+      "focusGifUrl": null,
+      "focusGifEnabled": false,
+      "defaultCoverSlug": null,
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-winter.backdrop.jpg",
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/season-winter.mp4",
+      "titleLogoUrl": null,
+      "coverSetId": null,
+      "backdropSetId": null,
+      "tileShape": "LANDSCAPE",
+      "catalogSources": [
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "genre_family_toprated_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "genre_romantic_comedy_toprated_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "studio_disney_animated_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "anime_ghibli",
+        "genre": null
+       }
+      ]
+     },
+     {
+      "id": "7fac2d88-99a2-5a82-abe3-e6ad1abbb9c5",
+      "title": "October Frights",
+      "hideTitle": true,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-october.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-october.cover.jpg",
+      "coverEmoji": null,
+      "focusGifUrl": null,
+      "focusGifEnabled": false,
+      "defaultCoverSlug": null,
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-october.backdrop.jpg",
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/season-october.mp4",
+      "titleLogoUrl": null,
+      "coverSetId": null,
+      "backdropSetId": null,
+      "tileShape": "LANDSCAPE",
+      "catalogSources": [
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "themed_horror_classics_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "themed_modern_horror_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "kb_shudder_top50",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "genre_horror_movies",
+        "genre": null
+       }
+      ]
+     },
+     {
+      "id": "7db115cf-32dd-5ee7-9ba4-66e4f3932ee0",
+      "title": "Spring Romance",
+      "hideTitle": true,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-spring.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-spring.cover.jpg",
+      "coverEmoji": null,
+      "focusGifUrl": null,
+      "focusGifEnabled": false,
+      "defaultCoverSlug": null,
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-spring.backdrop.jpg",
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/season-spring.mp4",
+      "titleLogoUrl": null,
+      "coverSetId": null,
+      "backdropSetId": null,
+      "tileShape": "LANDSCAPE",
+      "catalogSources": [
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "genre_romance_toprated_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "genre_romantic_comedy_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "series",
+        "catalogId": "genre_romance_toprated_series",
+        "genre": null
+       }
+      ]
+     },
+     {
+      "id": "8ae4ba54-e827-5088-a42f-1042007acee0",
+      "title": "Summer Blockbusters",
+      "hideTitle": true,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-summer.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-summer.cover.jpg",
+      "coverEmoji": null,
+      "focusGifUrl": null,
+      "focusGifEnabled": false,
+      "defaultCoverSlug": null,
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/season-summer.backdrop.jpg",
+      "heroVideoUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/loops/season-summer.mp4",
+      "titleLogoUrl": null,
+      "coverSetId": null,
+      "backdropSetId": null,
+      "tileShape": "LANDSCAPE",
+      "catalogSources": [
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "genre_action_toprated_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "genre_adventure_toprated_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "studio_marvel_movies",
+        "genre": null
+       },
+       {
+        "addonId": "app.xperience.b1a56536-7a8b-4f1c-8ebe-5145210a7d5d",
+        "type": "movie",
+        "catalogId": "studio_lucasfilm_movies",
         "genre": null
        }
       ]
@@ -3454,7 +3508,7 @@
    },
    {
     "id": "63632d70-47b9-4614-86ad-38b4258e1072",
-    "title": "Trending",
+    "title": "What Everyone's Watching",
     "pinToTop": true,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -3707,7 +3761,7 @@
    },
    {
     "id": "fd1e1682-ba6f-4e52-9dad-fc00606d27db",
-    "title": "New & Latest",
+    "title": "Fresh Releases",
     "pinToTop": true,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -4840,13 +4894,13 @@
       "id": "a94cdcb1-3a5d-4978-9223-4c28bf3fbd23",
       "title": "Action",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-action.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-action.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.action",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.action.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-action.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.action.logo.webp?v=7",
       "coverSetId": null,
@@ -4895,13 +4949,13 @@
       "id": "65a3ef60-cdb1-418d-92f8-d0bd52d07d49",
       "title": "Comedy",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-comedy.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-comedy.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.comedy",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.comedy.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-comedy.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.comedy.logo.webp?v=7",
       "coverSetId": null,
@@ -4950,13 +5004,13 @@
       "id": "4cad371b-b610-4bfd-8695-3d9bd46efeba",
       "title": "Drama",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-drama.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-drama.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.drama",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.drama.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-drama.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.drama.logo.webp?v=7",
       "coverSetId": null,
@@ -5005,13 +5059,13 @@
       "id": "99fbc68f-9d6d-43c9-9961-004efecd5759",
       "title": "Sci-Fi",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-sci-fi.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-sci-fi.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.sci_fi",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.sci_fi.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-sci-fi.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.sci_fi.logo.webp?v=7",
       "coverSetId": null,
@@ -5060,13 +5114,13 @@
       "id": "76eff688-e9e9-47ae-87f5-0595526539dc",
       "title": "Horror",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-horror.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-horror.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.horror",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.horror.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-horror.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.horror.logo.webp?v=7",
       "coverSetId": null,
@@ -5109,13 +5163,13 @@
       "id": "c34e8a01-3e1b-4c7f-965e-6d26ed968639",
       "title": "Crime",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-crime.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-crime.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.crime",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.crime.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-crime.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.crime.logo.webp?v=7",
       "coverSetId": null,
@@ -5164,13 +5218,13 @@
       "id": "e5a22952-388f-4354-ba61-43feedfd690c",
       "title": "Fantasy",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-fantasy.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-fantasy.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.fantasy",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.fantasy.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-fantasy.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.fantasy.logo.webp?v=7",
       "coverSetId": null,
@@ -5219,13 +5273,13 @@
       "id": "b76f9b08-b090-47fa-b7cb-3fca9c935025",
       "title": "Mystery",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-mystery.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-mystery.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.mystery",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.mystery.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-mystery.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.mystery.logo.webp?v=7",
       "coverSetId": null,
@@ -5274,13 +5328,13 @@
       "id": "fae771c9-01a2-4ab7-a531-dfc0a0e9f577",
       "title": "Romance",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-romance.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-romance.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.romance",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.romance.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-romance.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.romance.logo.webp?v=7",
       "coverSetId": null,
@@ -5329,13 +5383,13 @@
       "id": "de65df51-063e-45eb-b39f-ec23e527c0a2",
       "title": "Thrillers",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-thrillers.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-thrillers.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.thrillers",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.thrillers.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-thrillers.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.thrillers.logo.webp?v=7",
       "coverSetId": null,
@@ -5378,13 +5432,13 @@
       "id": "16bd0ef3-bfd9-4ded-b738-5984aa2541b3",
       "title": "Documentaries",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-documentaries.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-documentaries.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.documentaries",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.documentaries.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-documentaries.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.documentaries.logo.webp?v=7",
       "coverSetId": null,
@@ -5433,13 +5487,13 @@
       "id": "4719fc2e-0d7e-42a2-b0c1-110e0dd21f1d",
       "title": "Animated",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-animated.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-animated.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.animated",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.animated.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-animated.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.animated.logo.webp?v=7",
       "coverSetId": null,
@@ -5488,13 +5542,13 @@
       "id": "48a29e1c-0e21-41bc-83c3-614953d5cb2e",
       "title": "Bollywood",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-bollywood.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-bollywood.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.bollywood",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.bollywood.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-bollywood.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.bollywood.logo.webp?v=7",
       "coverSetId": null,
@@ -5543,13 +5597,13 @@
       "id": "01c62de2-aa9c-4f0c-92c2-d8cf028bf5ef",
       "title": "Westerns",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-westerns.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-westerns.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.westerns",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.westerns.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-westerns.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.westerns.logo.webp?v=7",
       "coverSetId": null,
@@ -5574,13 +5628,13 @@
       "id": "e57f8a4c-8b38-48f0-b156-9187af730e31",
       "title": "Sports",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-sports.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-sports.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.sports",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.sports.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-sports.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.sports.logo.webp?v=7",
       "coverSetId": null,
@@ -5605,13 +5659,13 @@
       "id": "58179edf-95d1-4305-b4ab-926dd47cd617",
       "title": "Musicals",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-musicals.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-musicals.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.musicals",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.musicals.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-musicals.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.musicals.logo.webp?v=7",
       "coverSetId": null,
@@ -5642,13 +5696,13 @@
       "id": "29c22112-2f8e-471d-9c5c-626d4aaf2fe2",
       "title": "K-Drama",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-k-drama.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-k-drama.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.k_drama",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.k_drama.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-k-drama.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.k_drama.logo.webp?v=7",
       "coverSetId": null,
@@ -5673,13 +5727,13 @@
       "id": "7e80b16b-82fd-4538-99e6-3ebaea066d44",
       "title": "Anime",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-anime.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-anime.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.anime",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.anime.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-anime.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.anime.logo.webp?v=7",
       "coverSetId": null,
@@ -5704,13 +5758,13 @@
       "id": "8a60ec14-e653-432b-a326-beadd5a2dcba",
       "title": "Spy Thrillers",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-spy-thrillers.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-spy-thrillers.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.spy",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.spy.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-spy-thrillers.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.spy.logo.webp?v=7",
       "coverSetId": null,
@@ -5735,13 +5789,13 @@
       "id": "248507da-4f09-4eae-96e7-7996b2b0ad83",
       "title": "War",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-war.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-war.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.war",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.war.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-war.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.war.logo.webp?v=7",
       "coverSetId": null,
@@ -5766,13 +5820,13 @@
       "id": "1c0d0e7f-da16-4dca-9400-3bd4a3672234",
       "title": "Adventure",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-adventure.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-adventure.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.adventure",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.adventure.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-adventure.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.adventure.logo.webp?v=7",
       "coverSetId": null,
@@ -5821,13 +5875,13 @@
       "id": "ec7abfb9-e760-4b09-946f-85156749850b",
       "title": "Family",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-family.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-family.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.family",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.family.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-family.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.family.logo.webp?v=7",
       "coverSetId": null,
@@ -5876,13 +5930,13 @@
       "id": "dff552bf-27ce-43c7-99e3-6c98a10fde7b",
       "title": "History",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-history.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-history.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.history",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.history.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-history.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.history.logo.webp?v=7",
       "coverSetId": null,
@@ -5919,13 +5973,13 @@
       "id": "308262fd-e2f4-4aae-a1f8-ca74fa7a9e0b",
       "title": "Romantic Comedy",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-romantic-comedy.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-romantic-comedy.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "genres.romantic_comedy",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/genres.romantic_comedy.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/genre-romantic-comedy.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/genres.romantic_comedy.logo.webp?v=7",
       "coverSetId": null,
@@ -8009,7 +8063,7 @@
    },
    {
     "id": "9bc21a35-f9ad-4365-8662-33dcecd64785",
-    "title": "Canon & Best-Of",
+    "title": "Best of the Best",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "FOLLOW_LAYOUT",
@@ -8256,13 +8310,13 @@
       "id": "a61d57a3-e7c4-44db-a933-8734f8935e8b",
       "title": "Quentin Tarantino",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-quentin-tarantino.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-quentin-tarantino.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.tarantino",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.tarantino.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-quentin-tarantino.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.tarantino.logo.webp?v=10",
       "coverSetId": null,
@@ -8281,13 +8335,13 @@
       "id": "5c6f58d4-3088-4616-84e7-69640a73b7c1",
       "title": "Christopher Nolan",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-christopher-nolan.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-christopher-nolan.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.nolan",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.nolan.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-christopher-nolan.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.nolan.logo.webp?v=10",
       "coverSetId": null,
@@ -8306,13 +8360,13 @@
       "id": "cbc54522-7b93-467b-a028-bb7e24961fc1",
       "title": "Steven Spielberg",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-steven-spielberg.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-steven-spielberg.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.spielberg",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.spielberg.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-steven-spielberg.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.spielberg.logo.webp?v=10",
       "coverSetId": null,
@@ -8331,13 +8385,13 @@
       "id": "7e67ad91-96a4-4659-b6f8-88398774f75b",
       "title": "Martin Scorsese",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-martin-scorsese.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-martin-scorsese.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.scorsese",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.scorsese.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-martin-scorsese.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.scorsese.logo.webp?v=10",
       "coverSetId": null,
@@ -8356,13 +8410,13 @@
       "id": "493d61c9-89ae-4778-9d86-d9a77c3187f7",
       "title": "David Fincher",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-david-fincher.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-david-fincher.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.fincher",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.fincher.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-david-fincher.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.fincher.logo.webp?v=10",
       "coverSetId": null,
@@ -8381,13 +8435,13 @@
       "id": "4cdddb67-648f-4f9f-a1fb-77c213e8025b",
       "title": "Denis Villeneuve",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-denis-villeneuve.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-denis-villeneuve.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.villeneuve",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.villeneuve.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-denis-villeneuve.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.villeneuve.logo.webp?v=10",
       "coverSetId": null,
@@ -8406,13 +8460,13 @@
       "id": "2fe6ab9f-4d2d-432d-8cac-40dc205adde4",
       "title": "Stanley Kubrick",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-stanley-kubrick.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-stanley-kubrick.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.kubrick",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.kubrick.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-stanley-kubrick.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.kubrick.logo.webp?v=10",
       "coverSetId": null,
@@ -8431,13 +8485,13 @@
       "id": "02517835-d996-4f9a-a413-174ed12e58ff",
       "title": "Alfred Hitchcock",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-alfred-hitchcock.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-alfred-hitchcock.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.hitchcock",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.hitchcock.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-alfred-hitchcock.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.hitchcock.logo.webp?v=10",
       "coverSetId": null,
@@ -8456,13 +8510,13 @@
       "id": "9fcb57ec-df21-49d7-9495-91a30c6c4b39",
       "title": "Wes Anderson",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-wes-anderson.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-wes-anderson.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.wes_anderson",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.wes_anderson.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-wes-anderson.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.wes_anderson.logo.webp?v=10",
       "coverSetId": null,
@@ -8481,13 +8535,13 @@
       "id": "b04bd6cd-3b37-42f6-9723-60dbd1b07ab2",
       "title": "Tim Burton",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-tim-burton.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-tim-burton.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.burton",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.burton.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-tim-burton.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.burton.logo.webp?v=10",
       "coverSetId": null,
@@ -8506,13 +8560,13 @@
       "id": "e7d0e6fa-ed5c-445b-a76f-ae21e411b1d5",
       "title": "Coen Brothers",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-coen-brothers.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-coen-brothers.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.coen",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.coen.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-coen-brothers.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.coen.logo.webp?v=10",
       "coverSetId": null,
@@ -8531,13 +8585,13 @@
       "id": "a8b80966-d72b-4f99-beff-69b3081ad7be",
       "title": "Guillermo del Toro",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-guillermo-del-toro.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-guillermo-del-toro.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": null,
       "focusGifEnabled": false,
       "defaultCoverSlug": "directors.del_toro",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/directors.del_toro.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/director-guillermo-del-toro.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/gallery_mono/directors.del_toro.logo.webp?v=10",
       "coverSetId": null,
@@ -9092,7 +9146,7 @@
    },
    {
     "id": "0e78941e-e9bc-4088-a734-0e10326c5529",
-    "title": "Film Collections",
+    "title": "Franchises",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "FOLLOW_LAYOUT",
@@ -9633,7 +9687,7 @@
    },
    {
     "id": "93e82e12-e551-4d65-a456-bc159639f67f",
-    "title": "TV Collections",
+    "title": "TV Universes",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "FOLLOW_LAYOUT",
@@ -9955,13 +10009,13 @@
       "id": "0d3aaa0b-c0a0-4912-a36a-903e650dd1b5",
       "title": "2020s",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2020s.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2020s.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2020s.focus.webp?v=7",
       "focusGifEnabled": true,
       "defaultCoverSlug": "by_decade.2020s",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2020s.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2020s.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2020s.logo.webp?v=7",
       "coverSetId": null,
@@ -9998,13 +10052,13 @@
       "id": "205ef2f6-6364-47ca-8761-120e3b8b5926",
       "title": "2010s",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2010s.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2010s.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2010s.focus.webp?v=7",
       "focusGifEnabled": true,
       "defaultCoverSlug": "by_decade.2010s",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2010s.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2010s.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2010s.logo.webp?v=7",
       "coverSetId": null,
@@ -10041,13 +10095,13 @@
       "id": "a99e8948-73ff-46d1-b834-3f6c909da000",
       "title": "2000s",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2000s.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2000s.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2000s.focus.webp?v=7",
       "focusGifEnabled": true,
       "defaultCoverSlug": "by_decade.2000s",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2000s.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-2000s.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/by_decade.2000s.logo.webp?v=7",
       "coverSetId": null,
@@ -10084,13 +10138,13 @@
       "id": "e1522450-0bb3-42a5-b1d2-035b8d18a66a",
       "title": "1990s",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1990s.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1990s.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1990s.focus.webp?v=7",
       "focusGifEnabled": true,
       "defaultCoverSlug": "by_decade.1990s",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1990s.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1990s.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1990s.logo.webp?v=7",
       "coverSetId": null,
@@ -10127,13 +10181,13 @@
       "id": "3430d40f-0251-489f-b3bd-6b0af7adf478",
       "title": "1980s",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1980s.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1980s.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1980s.focus.webp?v=7",
       "focusGifEnabled": true,
       "defaultCoverSlug": "by_decade.1980s",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1980s.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1980s.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1980s.logo.webp?v=7",
       "coverSetId": null,
@@ -10170,13 +10224,13 @@
       "id": "96c6947d-46f6-479d-b884-dc33a321346e",
       "title": "1970s",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1970s.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1970s.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1970s.focus.webp?v=7",
       "focusGifEnabled": true,
       "defaultCoverSlug": "by_decade.1970s",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1970s.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1970s.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1970s.logo.webp?v=7",
       "coverSetId": null,
@@ -10213,13 +10267,13 @@
       "id": "f528deb1-db13-4feb-86cc-9e048aa63f68",
       "title": "1960s",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1960s.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1960s.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1960s.focus.webp?v=7",
       "focusGifEnabled": true,
       "defaultCoverSlug": "by_decade.1960s",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1960s.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1960s.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1960s.logo.webp?v=7",
       "coverSetId": null,
@@ -10256,13 +10310,13 @@
       "id": "fc7de7a2-6135-4bcc-b704-017b345bfedc",
       "title": "1950s & Before",
       "hideTitle": true,
-      "coverImageUrl": null,
-      "customCoverImageUrl": null,
+      "coverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1950s-before.cover.jpg",
+      "customCoverImageUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1950s-before.cover.jpg",
       "coverEmoji": null,
       "focusGifUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1950s_and_before.focus.webp?v=7",
       "focusGifEnabled": true,
       "defaultCoverSlug": "by_decade.1950s_and_before",
-      "heroBackdropUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1950s_and_before.backdrop.webp?v=7",
+      "heroBackdropUrl": "https://raw.githubusercontent.com/nabeel454/Nuvio/refs/heads/claude/kind-archimedes-aicct1/covers/decade-1950s-before.backdrop.jpg",
       "heroVideoUrl": null,
       "titleLogoUrl": "https://cdn.xperience-app.com/covers/default/by_decade.1950s_and_before.logo.webp?v=7",
       "coverSetId": null,
@@ -10901,7 +10955,7 @@
    "rating_country": "auto",
    "origin_countries": [],
    "exclude_origin_countries": [],
-   "exclude_watched": false,
+   "exclude_watched": true,
    "exclude_caught_up": false,
    "default_quality": "decent"
   },
@@ -10917,6 +10971,10 @@
    {
     "kind": "collection",
     "id": "209e5a79-3a0d-559f-ad3b-566c3a1c3af5"
+   },
+   {
+    "kind": "collection",
+    "id": "1979932b-74b1-5db7-a672-2e5b88de36df"
    },
    {
     "kind": "collection",
@@ -10988,23 +11046,11 @@
    },
    {
     "kind": "collection",
-    "id": "9c068de5-2d2d-46de-acac-c710ef222def"
-   },
-   {
-    "kind": "collection",
-    "id": "c395caf8-ee32-4cc4-80c5-5f87d76dff61"
-   },
-   {
-    "kind": "collection",
     "id": "1bae26c0-922e-4f75-8741-0b2e0ce733ac"
-   },
-   {
-    "kind": "collection",
-    "id": "6df7a721-516e-476d-aa27-344ade69d5ad"
    }
   ],
   "home_dedupe": {
-   "enabled": false
+   "enabled": true
   }
  }
 }

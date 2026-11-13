@@ -31,12 +31,17 @@ def sources(ids):
 def nid(name):  # stable ids so re-running doesn't create duplicates
     return str(uuid.uuid5(uuid.NAMESPACE_URL, 'nuvio-custom/' + name))
 
+import os
+LOOPS = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'loops')
+def video(slug):
+    return f'{base}/../loops/{slug}.mp4'.replace('/covers/../', '/') if os.path.exists(os.path.join(LOOPS, slug + '.mp4')) else None
+
 def folder(slug, title, ids):
     return {'id': nid(slug), 'title': title, 'hideTitle': True,
             'coverImageUrl': f'{base}/{slug}.cover.jpg', 'customCoverImageUrl': f'{base}/{slug}.cover.jpg',
             'coverEmoji': None, 'focusGifUrl': None, 'focusGifEnabled': False,
             'defaultCoverSlug': None, 'heroBackdropUrl': f'{base}/{slug}.backdrop.jpg',
-            'heroVideoUrl': None, 'titleLogoUrl': None, 'coverSetId': None,
+            'heroVideoUrl': video(slug), 'titleLogoUrl': None, 'coverSetId': None,
             'backdropSetId': None, 'tileShape': 'LANDSCAPE', 'catalogSources': sources(ids)}
 
 # ---------- 1. Streaming: keep every folder + its artwork, re-order sources ----------
@@ -73,13 +78,53 @@ tonight = {'id': nid('collection/tonight'), 'title': 'Tonight', 'pinToTop': True
 c['collections'] = [col for col in c['collections'] if col['id'] != tonight['id']]
 c['collections'].insert(1, tonight)
 
+# ---------- 2b. Seasons collection ----------
+seasons = [
+    ('season-winter', 'Winter Comfort', ['genre_family_toprated_movies', 'genre_romantic_comedy_toprated_movies', 'studio_disney_animated_movies', 'anime_ghibli']),
+    ('season-october', 'October Frights', ['themed_horror_classics_movies', 'themed_modern_horror_movies', 'kb_shudder_top50', 'genre_horror_movies']),
+    ('season-spring', 'Spring Romance', ['genre_romance_toprated_movies', 'genre_romantic_comedy_movies', 'genre_romance_toprated_series']),
+    ('season-summer', 'Summer Blockbusters', ['genre_action_toprated_movies', 'genre_adventure_toprated_movies', 'studio_marvel_movies', 'studio_lucasfilm_movies']),
+]
+seas = {'id': nid('collection/seasons'), 'title': 'Seasons', 'pinToTop': False,
+        'focusGlowEnabled': True, 'viewMode': 'FOLLOW_LAYOUT', 'showAllTab': True,
+        'backdropImageUrl': f'{base}/seasons.backdrop.jpg',
+        'folders': [folder(sl, t, ids) for sl, t, ids in seasons]}
+c['collections'] = [col for col in c['collections'] if col['id'] != seas['id']]
+c['collections'].insert(2, seas)
+
+# ---------- 2c. Matching covers for Genres / Directors / Decades (stock art kept as fallback) ----------
+import re
+def slugify(t): return re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-')
+for title, prefix in [('Genres', 'genre-'), ('Directors', 'director-'), ('Decades', 'decade-')]:
+    col = next(x for x in c['collections'] if x['title'] == title)
+    for f in col['folders']:
+        url = f'{base}/{prefix}{slugify(f["title"])}.cover.jpg'
+        f['coverImageUrl'] = f['customCoverImageUrl'] = url
+        f['heroBackdropUrl'] = url.replace('.cover.', '.backdrop.')
+        f['hideTitle'] = True
+        f['tileShape'] = 'LANDSCAPE'
+
+# ---------- 2d. Friendlier collection names ----------
+for col in c['collections']:
+    col['title'] = {'Trending': "What Everyone's Watching", 'New & Latest': 'Fresh Releases',
+                    'Canon & Best-Of': 'Best of the Best', 'Film Collections': 'Franchises',
+                    'TV Collections': 'TV Universes'}.get(col['title'], col['title'])
+
+# ---------- 2e. Settings: dedupe, hide watched, no shuffle on ranked rows ----------
+c['home_dedupe'] = {'enabled': True}
+c['filters']['exclude_watched'] = True
+ranked = re.compile(r'top10|top50|top100|top20|top250|afi_|1001|awards_|trending|popular|snoak_|fp_|kb_|letterboxd')
+for cid in list(c['catalog_overrides']):
+    if ranked.search(cid) and c['catalog_overrides'][cid] == {'shuffle': 'daily'}:
+        del c['catalog_overrides'][cid]
+
 # ---------- 3. Home order: personal first, browse sections lower ----------
 by_title = {col['title']: col['id'] for col in c['collections']}
-order = ['Streaming', 'Tonight', 'Recently Watched Movies', 'Recently Watched Series', 'Trending',
-         'New & Latest', 'Studios', 'Film Collections', 'TV Collections', 'Directors', 'Awards',
-         'Canon & Best-Of', 'Themes', 'Genres', 'World', 'Anime', 'Anime Franchises', 'Decades',
-         'Runtime', 'Networks', 'Actors', 'Kids', 'Reality']
-order += [t for t in by_title if t not in order]
+order = ['Streaming', 'Tonight', 'Seasons', 'Recently Watched Movies', 'Recently Watched Series',
+         "What Everyone's Watching", 'Fresh Releases', 'Studios', 'Franchises', 'TV Universes',
+         'Directors', 'Awards', 'Best of the Best', 'Themes', 'Genres', 'World', 'Anime',
+         'Anime Franchises', 'Decades', 'Runtime', 'Kids']
+# Actors, Networks, Reality stay in the profile (browse) but leave the home screen
 keep_rows = ['recs_movies_for_you']  # the rest are already inside collections
 c['home_order'] = [{'kind': 'catalog', 'id': r} for r in keep_rows] + \
                   [{'kind': 'collection', 'id': by_title[t]} for t in order]

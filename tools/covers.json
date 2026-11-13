@@ -1,12 +1,533 @@
 [
- {"slug":"top10-everywhere","title":"Top 10","sub":"Everywhere","kicker":"All services · today","c1":"#ff3d3d","c2":"#4a0410","motif":"rank"},
- {"slug":"new-on-streaming","title":"Just","sub":"Landed","kicker":"New on every service","c1":"#3de0ff","c2":"#041f3a","motif":"rings"},
- {"slug":"tonight","title":"Tonight","sub":"","kicker":"Curated for you","c1":"#f5c26b","c2":"#1a0f05","motif":"spot"},
- {"slug":"mind-benders","title":"Mind","sub":"Benders","kicker":"Twists · loops · paradoxes","c1":"#b06bff","c2":"#120428","motif":"spiral"},
- {"slug":"arthouse-nights","title":"Arthouse","sub":"Nights","kicker":"A24 · MUBI · Criterion","c1":"#e8e0d0","c2":"#2b2622","motif":"frame"},
- {"slug":"under-90","title":"Under","sub":"90 Minutes","kicker":"Short & sharp","c1":"#7dffb2","c2":"#03241a","motif":"clock"},
- {"slug":"the-canon","title":"The","sub":"Canon","kicker":"The films everyone should see","c1":"#ffd36b","c2":"#2a1c02","motif":"laurel"},
- {"slug":"edge-of-your-seat","title":"Edge of","sub":"Your Seat","kicker":"Heists · whodunnits · thrillers","c1":"#ff8a3d","c2":"#2a0d02","motif":"slash"},
- {"slug":"after-midnight","title":"After","sub":"Midnight","kicker":"Horror, old and new","c1":"#ff2e5f","c2":"#0a0006","motif":"moon"},
- {"slug":"epic-night-in","title":"Epic","sub":"Night In","kicker":"Two and a half hours +","c1":"#6b9bff","c2":"#050c24","motif":"horizon"}
+ {
+  "slug": "top10-everywhere",
+  "title": "Top 10",
+  "sub": "Everywhere",
+  "kicker": "All services \u00b7 today",
+  "c1": "#ff3d3d",
+  "c2": "#4a0410",
+  "motif": "rank"
+ },
+ {
+  "slug": "new-on-streaming",
+  "title": "Just",
+  "sub": "Landed",
+  "kicker": "New on every service",
+  "c1": "#3de0ff",
+  "c2": "#041f3a",
+  "motif": "rings"
+ },
+ {
+  "slug": "tonight",
+  "title": "Tonight",
+  "sub": "",
+  "kicker": "Curated for you",
+  "c1": "#f5c26b",
+  "c2": "#1a0f05",
+  "motif": "spot"
+ },
+ {
+  "slug": "mind-benders",
+  "title": "Mind",
+  "sub": "Benders",
+  "kicker": "Twists \u00b7 loops \u00b7 paradoxes",
+  "c1": "#b06bff",
+  "c2": "#120428",
+  "motif": "spiral"
+ },
+ {
+  "slug": "arthouse-nights",
+  "title": "Arthouse",
+  "sub": "Nights",
+  "kicker": "A24 \u00b7 MUBI \u00b7 Criterion",
+  "c1": "#e8e0d0",
+  "c2": "#2b2622",
+  "motif": "frame"
+ },
+ {
+  "slug": "under-90",
+  "title": "Under",
+  "sub": "90 Minutes",
+  "kicker": "Short & sharp",
+  "c1": "#7dffb2",
+  "c2": "#03241a",
+  "motif": "clock"
+ },
+ {
+  "slug": "the-canon",
+  "title": "The",
+  "sub": "Canon",
+  "kicker": "The films everyone should see",
+  "c1": "#ffd36b",
+  "c2": "#2a1c02",
+  "motif": "laurel"
+ },
+ {
+  "slug": "edge-of-your-seat",
+  "title": "Edge of",
+  "sub": "Your Seat",
+  "kicker": "Heists \u00b7 whodunnits \u00b7 thrillers",
+  "c1": "#ff8a3d",
+  "c2": "#2a0d02",
+  "motif": "slash"
+ },
+ {
+  "slug": "after-midnight",
+  "title": "After",
+  "sub": "Midnight",
+  "kicker": "Horror, old and new",
+  "c1": "#ff2e5f",
+  "c2": "#0a0006",
+  "motif": "moon"
+ },
+ {
+  "slug": "epic-night-in",
+  "title": "Epic",
+  "sub": "Night In",
+  "kicker": "Two and a half hours +",
+  "c1": "#6b9bff",
+  "c2": "#050c24",
+  "motif": "horizon"
+ },
+ {
+  "slug": "genre-action",
+  "title": "Action",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ff5a5f",
+  "c2": "#240c0d",
+  "motif": "rings"
+ },
+ {
+  "slug": "genre-comedy",
+  "title": "Comedy",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ffb84d",
+  "c2": "#241a0b",
+  "motif": "slash"
+ },
+ {
+  "slug": "genre-drama",
+  "title": "Drama",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ffd84d",
+  "c2": "#241e0b",
+  "motif": "spiral"
+ },
+ {
+  "slug": "genre-sci-fi",
+  "title": "Sci-Fi",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#8cff6b",
+  "c2": "#14240f",
+  "motif": "frame"
+ },
+ {
+  "slug": "genre-horror",
+  "title": "Horror",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#4dffc3",
+  "c2": "#0b241b",
+  "motif": "clock"
+ },
+ {
+  "slug": "genre-crime",
+  "title": "Crime",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#4dd2ff",
+  "c2": "#0b1e24",
+  "motif": "horizon"
+ },
+ {
+  "slug": "genre-fantasy",
+  "title": "Fantasy",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#6b8cff",
+  "c2": "#0f1424",
+  "motif": "spot"
+ },
+ {
+  "slug": "genre-mystery",
+  "title": "Mystery",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#b06bff",
+  "c2": "#190f24",
+  "motif": "laurel"
+ },
+ {
+  "slug": "genre-romance",
+  "title": "Romance",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ff6bd6",
+  "c2": "#240f1e",
+  "motif": "rings"
+ },
+ {
+  "slug": "genre-thrillers",
+  "title": "Thrillers",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ff8a5c",
+  "c2": "#24130d",
+  "motif": "slash"
+ },
+ {
+  "slug": "genre-documentaries",
+  "title": "Documentaries",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#e0d6c2",
+  "c2": "#201e1b",
+  "motif": "spiral"
+ },
+ {
+  "slug": "genre-animated",
+  "title": "Animated",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#7dffb2",
+  "c2": "#112419",
+  "motif": "frame"
+ },
+ {
+  "slug": "genre-bollywood",
+  "title": "Bollywood",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ff5a5f",
+  "c2": "#240c0d",
+  "motif": "clock"
+ },
+ {
+  "slug": "genre-westerns",
+  "title": "Westerns",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ffb84d",
+  "c2": "#241a0b",
+  "motif": "horizon"
+ },
+ {
+  "slug": "genre-sports",
+  "title": "Sports",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ffd84d",
+  "c2": "#241e0b",
+  "motif": "spot"
+ },
+ {
+  "slug": "genre-musicals",
+  "title": "Musicals",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#8cff6b",
+  "c2": "#14240f",
+  "motif": "laurel"
+ },
+ {
+  "slug": "genre-k-drama",
+  "title": "K-Drama",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#4dffc3",
+  "c2": "#0b241b",
+  "motif": "rings"
+ },
+ {
+  "slug": "genre-anime",
+  "title": "Anime",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#4dd2ff",
+  "c2": "#0b1e24",
+  "motif": "slash"
+ },
+ {
+  "slug": "genre-spy-thrillers",
+  "title": "Spy",
+  "sub": "Thrillers",
+  "kicker": "Genre",
+  "c1": "#6b8cff",
+  "c2": "#0f1424",
+  "motif": "spiral"
+ },
+ {
+  "slug": "genre-war",
+  "title": "War",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#b06bff",
+  "c2": "#190f24",
+  "motif": "frame"
+ },
+ {
+  "slug": "genre-adventure",
+  "title": "Adventure",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ff6bd6",
+  "c2": "#240f1e",
+  "motif": "clock"
+ },
+ {
+  "slug": "genre-family",
+  "title": "Family",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#ff8a5c",
+  "c2": "#24130d",
+  "motif": "horizon"
+ },
+ {
+  "slug": "genre-history",
+  "title": "History",
+  "sub": "",
+  "kicker": "Genre",
+  "c1": "#e0d6c2",
+  "c2": "#201e1b",
+  "motif": "spot"
+ },
+ {
+  "slug": "genre-romantic-comedy",
+  "title": "Romantic",
+  "sub": "Comedy",
+  "kicker": "Genre",
+  "c1": "#7dffb2",
+  "c2": "#112419",
+  "motif": "laurel"
+ },
+ {
+  "slug": "director-quentin-tarantino",
+  "title": "Quentin",
+  "sub": "Tarantino",
+  "kicker": "A film by",
+  "c1": "#8cff6b",
+  "c2": "#14240f",
+  "motif": "spot"
+ },
+ {
+  "slug": "director-christopher-nolan",
+  "title": "Christopher",
+  "sub": "Nolan",
+  "kicker": "A film by",
+  "c1": "#4dffc3",
+  "c2": "#0b241b",
+  "motif": "frame"
+ },
+ {
+  "slug": "director-steven-spielberg",
+  "title": "Steven",
+  "sub": "Spielberg",
+  "kicker": "A film by",
+  "c1": "#4dd2ff",
+  "c2": "#0b1e24",
+  "motif": "spot"
+ },
+ {
+  "slug": "director-martin-scorsese",
+  "title": "Martin",
+  "sub": "Scorsese",
+  "kicker": "A film by",
+  "c1": "#6b8cff",
+  "c2": "#0f1424",
+  "motif": "frame"
+ },
+ {
+  "slug": "director-david-fincher",
+  "title": "David",
+  "sub": "Fincher",
+  "kicker": "A film by",
+  "c1": "#b06bff",
+  "c2": "#190f24",
+  "motif": "spot"
+ },
+ {
+  "slug": "director-denis-villeneuve",
+  "title": "Denis",
+  "sub": "Villeneuve",
+  "kicker": "A film by",
+  "c1": "#ff6bd6",
+  "c2": "#240f1e",
+  "motif": "frame"
+ },
+ {
+  "slug": "director-stanley-kubrick",
+  "title": "Stanley",
+  "sub": "Kubrick",
+  "kicker": "A film by",
+  "c1": "#ff8a5c",
+  "c2": "#24130d",
+  "motif": "spot"
+ },
+ {
+  "slug": "director-alfred-hitchcock",
+  "title": "Alfred",
+  "sub": "Hitchcock",
+  "kicker": "A film by",
+  "c1": "#e0d6c2",
+  "c2": "#201e1b",
+  "motif": "frame"
+ },
+ {
+  "slug": "director-wes-anderson",
+  "title": "Wes",
+  "sub": "Anderson",
+  "kicker": "A film by",
+  "c1": "#7dffb2",
+  "c2": "#112419",
+  "motif": "spot"
+ },
+ {
+  "slug": "director-tim-burton",
+  "title": "Tim",
+  "sub": "Burton",
+  "kicker": "A film by",
+  "c1": "#ff5a5f",
+  "c2": "#240c0d",
+  "motif": "frame"
+ },
+ {
+  "slug": "director-coen-brothers",
+  "title": "Coen",
+  "sub": "Brothers",
+  "kicker": "A film by",
+  "c1": "#ffb84d",
+  "c2": "#241a0b",
+  "motif": "spot"
+ },
+ {
+  "slug": "director-guillermo-del-toro",
+  "title": "Guillermo",
+  "sub": "del Toro",
+  "kicker": "A film by",
+  "c1": "#ffd84d",
+  "c2": "#241e0b",
+  "motif": "frame"
+ },
+ {
+  "slug": "decade-2020s",
+  "title": "2020s",
+  "sub": "",
+  "kicker": "Decade",
+  "c1": "#4dd2ff",
+  "c2": "#0b1e24",
+  "motif": "horizon"
+ },
+ {
+  "slug": "decade-2010s",
+  "title": "2010s",
+  "sub": "",
+  "kicker": "Decade",
+  "c1": "#6b8cff",
+  "c2": "#0f1424",
+  "motif": "horizon"
+ },
+ {
+  "slug": "decade-2000s",
+  "title": "2000s",
+  "sub": "",
+  "kicker": "Decade",
+  "c1": "#b06bff",
+  "c2": "#190f24",
+  "motif": "horizon"
+ },
+ {
+  "slug": "decade-1990s",
+  "title": "1990s",
+  "sub": "",
+  "kicker": "Decade",
+  "c1": "#ff6bd6",
+  "c2": "#240f1e",
+  "motif": "horizon"
+ },
+ {
+  "slug": "decade-1980s",
+  "title": "1980s",
+  "sub": "",
+  "kicker": "Decade",
+  "c1": "#ff8a5c",
+  "c2": "#24130d",
+  "motif": "horizon"
+ },
+ {
+  "slug": "decade-1970s",
+  "title": "1970s",
+  "sub": "",
+  "kicker": "Decade",
+  "c1": "#e0d6c2",
+  "c2": "#201e1b",
+  "motif": "horizon"
+ },
+ {
+  "slug": "decade-1960s",
+  "title": "1960s",
+  "sub": "",
+  "kicker": "Decade",
+  "c1": "#7dffb2",
+  "c2": "#112419",
+  "motif": "horizon"
+ },
+ {
+  "slug": "decade-1950s-before",
+  "title": "1950s",
+  "sub": "& Before",
+  "kicker": "Decade",
+  "c1": "#ff5a5f",
+  "c2": "#240c0d",
+  "motif": "horizon"
+ },
+ {
+  "slug": "season-october",
+  "title": "October",
+  "sub": "Frights",
+  "kicker": "Seasonal \u00b7 autumn",
+  "c1": "#ff5a5f",
+  "c2": "#240c0d",
+  "motif": "moon"
+ },
+ {
+  "slug": "season-winter",
+  "title": "Winter",
+  "sub": "Comfort",
+  "kicker": "Seasonal \u00b7 winter",
+  "c1": "#e0d6c2",
+  "c2": "#201e1b",
+  "motif": "spot"
+ },
+ {
+  "slug": "season-spring",
+  "title": "Spring",
+  "sub": "Romance",
+  "kicker": "Seasonal \u00b7 spring",
+  "c1": "#ff6bd6",
+  "c2": "#240f1e",
+  "motif": "rings"
+ },
+ {
+  "slug": "season-summer",
+  "title": "Summer",
+  "sub": "Blockbusters",
+  "kicker": "Seasonal \u00b7 summer",
+  "c1": "#ffb84d",
+  "c2": "#241a0b",
+  "motif": "slash"
+ },
+ {
+  "slug": "seasons",
+  "title": "Seasons",
+  "sub": "",
+  "kicker": "Time of year",
+  "c1": "#4dffc3",
+  "c2": "#0b241b",
+  "motif": "horizon"
+ }
 ]
